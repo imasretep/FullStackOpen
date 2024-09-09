@@ -34,7 +34,9 @@ const App = () => {
         {token ? (
           <>
             <button onClick={() => setPage("add")}>add book</button>
-            <button onClick={() => setPage("recommendations")}></button>
+            <button onClick={() => setPage("recommendations")}>
+              recommendations
+            </button>
           </>
         ) : null}
         {!token ? (
