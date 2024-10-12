@@ -13,4 +13,4 @@ TypeScript (Part 9)
 ![Fullstack-certificate-typescript](https://github.com/imasretep/FullStackOpen/blob/main/certificate-typescript.png)
 
 
-React Native (Part 10 -- Ongoing): https://github.com/imasretep/rate-repository-app.
+React Native (Part 10 -- Ongoing): https://github.com/imasretep/rate-repository-app
